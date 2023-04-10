@@ -1,4 +1,4 @@
-# Double Landing Page
+# Random Emoji
 
 This project is a simple web application that displays a random emoji character and its Unicode code point. The application uses the Fetch API to retrieve a list of emoji objects from the Emoji API and creates an array of objects containing the Unicode character and code point for each emoji.
 
