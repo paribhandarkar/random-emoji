@@ -8,7 +8,7 @@ The project uses async/await to fetch data from the API and generate the array o
 
 ## Demo
 
-You can try out the application by visiting [this link](https://paribhandarkar.github.io/double-landing-page/).
+You can try out the application by visiting [this link](https://paribhandarkar.github.io/random-emoji/).
 
 ## Technologies Used
 
@@ -24,7 +24,7 @@ To get started with this project, clone the repository and open the `index.html`
 
 I learned about two new concepts in JavaScript: **`async`** and **`await`**. These are used to make asynchronous code more readable and easier to work with. By using the **`async`** keyword before a function and the **`await`** keyword before a promise, we can write asynchronous code that looks more like synchronous code. This makes it easier to understand what's happening in the code and reduces the likelihood of errors.
 
-I also learned about the **`json()`** method in JavaScript. This is a method that's used to parse JSON data that's returned from an API or other source. It takes the raw JSON data as input and returns a JavaScript object that can be easily manipulated and worked with. This is useful when working with APIs that return data in JSON format, as it allows us to easily extract and use the data in our application.## New Things I Learned
+I also learned about the **`json()`** method in JavaScript. This is a method that's used to parse JSON data that's returned from an API or other source. It takes the raw JSON data as input and returns a JavaScript object that can be easily manipulated and worked with. This is useful when working with APIs that return data in JSON format, as it allows us to easily extract and use the data in our application.
 
 ## Challenges I faced
 
