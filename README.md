@@ -33,3 +33,5 @@ I faced some challenges while working on this project. One of the main challenge
 Another challenge I faced was working with the **`json()`** method, which is used to extract JSON data from an HTTP response. I hadn't used this method before, so I had to learn about it and figure out how to incorporate it into my code.
 
 Overall, these challenges were difficult at first, but I was able to overcome them with some persistence and problem-solving. I learned a lot in the process, and I feel more confident in my abilities as a JavaScript developer now.
+
+![Untitled video - Made with Clipchamp (2)](https://github.com/paribhandarkar/random-emoji/assets/76446574/1fe5fe7b-def7-411a-a8d5-15215f040d03)
